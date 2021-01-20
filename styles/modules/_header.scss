@@ -1,0 +1,11 @@
+.header {
+  text-align: center;
+  border: transparent;
+  background-color: rgb(247, 73, 81);
+  padding: 2rem 3rem;
+
+  &__title {
+    font-weight: 600;
+    color: rgb(250, 236, 236);
+  }
+}
