@@ -12,7 +12,7 @@ import WeatherData from "./WeatherData"
 import Error from "./Error"
 import Footer from "./Layout/Footer"
 
-const API_KEY = "2270acf2d53188f9ede5cc4dee7d8d96"
+const API_KEY = "YOUR API KEY"
  
 const Main = () => {
   const [weather, setWeather] = useState(null)
